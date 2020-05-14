@@ -3,3 +3,4 @@ test
 ing
 two
 new lines
+1 line of text
